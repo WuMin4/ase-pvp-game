@@ -1,2 +1,2 @@
 # ase_pvp_game
-AI game from Asedwai
+[base](https://github.com/Asedwai/pvpgame)
